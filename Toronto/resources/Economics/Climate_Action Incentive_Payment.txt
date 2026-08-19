@@ -1,0 +1,9 @@
+#0: Province	 1:individual	 2:spouse_or_common-law partner	 3:child_under_19	 4:first_child_in_a_single_parent_family #https://www.canada.ca/en/revenue-agency/services/child-family-benefits/cai-payment.html
+Ontario	488	244	122	244
+Manitoba	528	264	132	264
+Saskatchewan	680	340	170	340
+Alberta	772	386	193	386
+Newfoundland_&_Labrador	656	328	164	328
+Nova_Scotia	496	248	124	248
+Prince_Edward_Island	480	240	120	240
+New Brunswick	368	184	92	184

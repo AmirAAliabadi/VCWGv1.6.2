@@ -1,0 +1,2 @@
+#0:First Tier (less than 40 kWh per day) [cents kWh-1], 1:Second Tier (more than 40 kWh per day) [cents kWh-1]
+6.509, 10.041

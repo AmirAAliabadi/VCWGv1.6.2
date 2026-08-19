@@ -1,0 +1,2 @@
+#0: step consumption [Amp-h], 1: Basic monthly charge not exceeding step consumption [$], 2:Basic monthly charge exceeding step consumption [$], 3:Energy charge [Cents kWh-1]
+200, 9.33, 18.66, 9.455

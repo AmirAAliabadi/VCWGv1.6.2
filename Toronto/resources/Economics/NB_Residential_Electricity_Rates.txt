@@ -1,0 +1,2 @@
+0:Service charge [$ month -1], 1:Energy Charge [Cents kWh^-1]
+24.57, 12.15

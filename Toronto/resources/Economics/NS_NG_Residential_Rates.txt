@@ -1,0 +1,2 @@
+#0:Basic charge [$ month^-1], 1:Variable Charge [$ GJ^-1], 2: Commodity charge [$ GJ^-1], 2:Other Fees [$ GJ^-1]
+26.00, 9.833, 10.10, 3.897

@@ -1,0 +1,2 @@
+#0: Customer Charges [$/month], 0: Energy Charge [cents kWh-1]
+18.00,23.72

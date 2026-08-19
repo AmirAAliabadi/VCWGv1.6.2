@@ -1,0 +1,13 @@
+#0:Month,1:EPCOR_Distribution_(EPCOR),[Cents kWh-1],2:FortisAlberta_Inc.(EPCOR)[Cents kWh-1],3:ENMAX_Power_Corporation_(ENMAX)[Cents kWh-1],4:ATCO_Electric_(Direct_Energy_Regulated_Services)[Cents kWh-1],5:Average [Cents kWh-1],https://ucahelps.alberta.ca/regulated-rates.aspx
+January,29.476,28.973,29.112,26.996,28.63925
+February,32.957,32.349,29.677,32.672,31.91375
+March,20.022,19.617,18.681,21.894,20.0535
+April,17.734,17.532,17.662,20.134,18.2655
+May,16.829,16.635,16.007,16.779,16.5625
+June,18.956,18.9,18.231,17.62,18.42675
+July,28.024,27.82,27.575,26.578,27.49925
+August,32.539,32.259,31.858,32.425,32.27025
+September,27.759,27.417,26.455,28.88,27.62775
+October,19.691,19.451,18.897,20.484,19.63075
+November,19.565,19.242,18.623,19.836,19.3165
+December,20.863,20.537,19.356,20.716,20.368

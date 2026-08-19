@@ -1,0 +1,2 @@
+#0: Basic_Charge [cents day-1], 1: Step1 (less than 22.1918 kWh day-1) [cents kWh-1], 2: Step2 (over 22.1918 kWh day-1) [cents kWh-1] 
+21.17,9.75,14.08

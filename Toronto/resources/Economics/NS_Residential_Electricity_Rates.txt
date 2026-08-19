@@ -1,0 +1,2 @@
+#0: Basic_Customer [$], 0: Residential_Electricity_Rate [cents kWh-1]
+19.17,16.35

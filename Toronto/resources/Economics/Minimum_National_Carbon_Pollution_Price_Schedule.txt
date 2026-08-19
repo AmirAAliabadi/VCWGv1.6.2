@@ -1,0 +1,2 @@
+#0:Year	1:2023	2:2024	3:2025	4:2026	5:2027	6:2028	7:2029	8:2030 #https://www.canada.ca/en/environment-climate-change/services/climate-change/pricing-pollution-how-it-will-work/carbon-pollution-pricing-federal-benchmark-information/federal-benchmark-2023-2030.html
+Minimum_Carbon_Pollution_Price_($CAD/tonneCO2e)	65	80	95	110	125	140	155	170

@@ -1,0 +1,2 @@
+#0: Basic_Charge [$], 1: Step1 (less than 2000 kilowatt hour (kW-h)) [cents/kWh], 2: Step2 (over 2000 kilowatt hour (kW-h)) [cents kWh-1] 
+24.57,14.37,11.42

@@ -1,0 +1,2 @@
+#0:Basic charge [$ month^-1], 1: Delivery charge [$ m^-3], 2:Storage and transport charge [$ m^-3], 3: Cost of gas [$ m^-3]
+12.648, 0.2631, 0.0094, 0.0875

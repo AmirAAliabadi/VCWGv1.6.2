@@ -1,0 +1,2 @@
+#0:Natural Gas Price [Cents m^-3], 2:Gas Supply Cost Adjustment [Cents m^-3], 3:Effective Gas Supply [Cents m^-3]
+11.7575, 2.0308, 13.7883

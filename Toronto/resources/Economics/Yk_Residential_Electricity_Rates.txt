@@ -1,0 +1,3 @@
+#0:Building Type, 1: Charge [$ kWh-1]
+Residential(non-government account), 0.204
+Commercial(non-government account), 0.1775
